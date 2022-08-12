@@ -1,0 +1,10 @@
+
+.w3-theme {
+    color: #fff !important;
+    background-color: #4CAF50 !important;
+}
+
+
+.fa-home:before {
+    content: '\e800';
+}
